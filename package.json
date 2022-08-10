@@ -1,0 +1,32 @@
+{
+  "name": "kanban-server",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000k\u0000a\u0000n\u0000b\u0000a\u0000n\u0000-\u0000s\u0000e\u0000r\u0000v\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardop1/kanban-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardop1/kanban-server/issues"
+  },
+  "homepage": "https://github.com/richardop1/kanban-server#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "debug": "^4.3.4",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.5.2",
+    "morgan": "^1.10.0"
+  }
+}
